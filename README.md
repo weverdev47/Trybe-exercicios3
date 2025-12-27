@@ -1,2 +1,2 @@
 # Meu repositorio de exercicios  
-![Screenshot_1](https://github.com/user-attachments/assets/47f2eeb5-5769-4770-8376-fc86380ccb1c)
+![tutorial do curso](https://github.com/user-attachments/assets/daa17a2f-9399-48f8-aa1d-08496b5d4013)
